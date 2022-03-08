@@ -1,4 +1,5 @@
 # Composer template for Drupal projects
+by lester javier
 
 [![CI](https://github.com/drupal-composer/drupal-project/actions/workflows/ci.yml/badge.svg?branch=9.x)](https://github.com/drupal-composer/drupal-project/actions/workflows/ci.yml)
 
@@ -7,9 +8,9 @@ dependencies with [Composer](https://getcomposer.org/).
 
 ## Usage
 
-First you need to [install Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx).
+First [install Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx).
 
-> Note: The instructions below refer to the [global Composer installation](https://getcomposer.org/doc/00-intro.md#globally).
+> Note: The utos below refer to the [global Composer installation](https://getcomposer.org/doc/00-intro.md#globally).
 You might need to replace `composer` with `php composer.phar` (or similar)
 for your setup.
 
